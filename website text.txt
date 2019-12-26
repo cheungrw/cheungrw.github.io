@@ -1,0 +1,141 @@
+> 1. Bio
+
+I'm a Psychology PhD student in Infant and Child Development at Lancaster University. I work with Professor Padraic Monaghan and Dr Calum Hartley. 
+
+I have a background in Medicine (University of Manchester). Before starting my PhD, I was a junior doctor in Psychiatry and in Emergency Medicine, studied Developmental Neuroscience and Psychopathology (MSc, UCL), and spent a year in the US conducting developmental fMRI research (Yale University). I also have a soft spot for Medical Ethics & Law (MSc, University of Manchester) and for writing.
+
+As a clinician, I worked with the late outcomes of pathology rather than on preventative factors. My clinical work motivated me to move to academia and conduct research that improves how we understand early experiences and how we treat them. This includes how children learn language in different environments, as language skills have a significant impact on later outcomes in life.
+
+You can find a CV here:
+
+
+> 2. Research
+
+My current research investigates how children learn language, and more broadly, how this affects their development and their understanding of the world during the early years (0-5). 
+
+One research project focuses on the environment surrounding word learning, and how this affects the cognitive processes and behaviour of caregivers and children alike. I am particuarly interested in the learning process that takes place in both adults and children, and how they solve problems. Investigating this learning process is vital to understanding how we acquire language as children, but is also pivotal to understanding how we begin to make sense of the world.
+
+Another project covers the learning mechanisms of late-talking children. Late talkers generally improve to reach the same productive vocabulary range as their peers, but a small proportion develop more severe difficulties. Some evidence also suggests late talkers perform worse than their counterparts on reading and language tasks later on. However, it remains difficult to distinguish between those who will struggle and those who will not, making any early detection or intervention problematic. My research investigates how late talkers learn language, how this might differ to typically developing children, how this changes over time, and how this affects their understanding of non-verbal symbols and communication. 
+
+I have also worked with speech and language therapists and the NHS to look at practical interventions for improving language and detection of impairments during the first five years of life.
+
+
+> 3. Outputs:
+BJPsych Advances
+CogSci Proceedings Paper
+
+Selected talks:
+CogSci2019 oral presentation
+LCICD 2019 oral presentation
+
+Selected posters:
+WILD 2019 poster
+LCICD 2018 poster
+Lancaster FST 2018 poster
+
+
+> 4. Affliations: 
+Leverhulme Trust Doctoral Scholarship
+Lancaster University Profile
+Babylab Lancaster
+LuCiD
+
+
+> 5. Early Years Resources
+Presentation done for LuCiD - a short 7 minute video presentation for Early Years Practitioners. 
+
+Databases and resources for diagnosis and intervention in speech, language, and communication needs
+- WhatWorks
+- EIF
+- Talking Point
+
+Charities
+- TCT
+- I CAN
+
+
+>6. Shirk Your Work
+Botnik’s AI-written seventh Harry Potter Story: a testament to the amazing things artificial intelligence can achieve https://botnik.org/content/harry-potter.html
+
+Computer-generated faces:
+
+Corgi bellyflop:
+
+
+> CONSTANT BUTTONS: CV (view pdf not dowload) + contact me
+
+
+
+[[[[[[[NOT THIS]]]]]]]
+>Pastoral Care
+>>For prospective (and current) PhD students
+
+Are you thinking about doing a PhD? Or are you doing one, and losing your mind just a little bit whilst you’re amygdala-deep in untidy code and half-written papers? If so, here are some resources that you might find helpful.
+
+>>>What’s a PhD?
+This sounds like an obvious question, but for many Masters students (and sometimes current PhD students), it’s hard to pin down an answer that makes sense to you. 
+
+A PhD is a chance to study something indepth, and conduct novel research. It takes anywhere between 3-5 years depending on country and institution. Typically, 
+
+There are two pieces of advice I think are useful before you start:
+
+Firstly, you will spend vast amounts of time and resources on a relatively narrow area of research. You need to make sure you are okay with this, and that you can stand - possibly even love - reading a billion articles all debating the same principles in several different ways. 
+
+Secondly, a supportive supervisor is invaluable; this will affect your experience significantly more than many might realise. It’s great if somebody is top in their field; it’s less great when they have the supervisory skills of a teaspoon. You might be the kind of person who thrives on independence, or you might need a little bit of scaffolding to get where you want to go. Either is fine, but figure it out before you start. Talk to potential supervisors beforehand, speak to the lab members, get a feel for how things are run in their lab or department. Know thyself; you alone know how well you’ll get on in a certain type of environment.
+
+>>>Help me!
+About paradigm-shifting research: the famous Thomas Kuhn article
+About coding in R: basics
+About work-life balance: some pop psychology for easy digestion
+
+About working with children: insights
+
+You need to like children to work with them. This sounds common-sense, but some don’t seem to grasp this fact before they start. Children are not perfect research subjects; they wiggle, cry, and pretend to be dinosaurs at random times. They are also individuals within their own right. Make the parents feel at home and the children will mostly follow their parents’ lead. Above all, be patient - children are not there to give you results for your research. Child participants are often taking part on the goodwill of their parents, and subsequently they don’t owe you their concentration or compliance. Get over this, and you will love working with them. Struggle with it, and you’ll hate your testing periods. 
+
+About meditation: evidence-based stress-reduction techniques
+
+About imposter syndrome: often spoken of, but not always admitted to
+
+
+>>For Curious Medics
+
+This section is heavily UK-based and meant for those just starting out (medical students and junior docs); this advice will likely not apply if you are based elsewhere.
+
+>>>Why do research if you’re a medic?
+
+Well firstly, it’s part of GMC requirements for revalidation if you’re in the UK. Yes, it’s for the glorious hours spent maintaining your portfolio!* 
+
+Secondly, although not everyone will be interested in child development, research is valuable regardless of what specialty you choose. 
+
+To begin with, the knowledge you have as clinicians comes from research. This may sound obvious, but when you use something every day, it’s very easy not to think about how it came about. For example, you might know when to get a CT scan on somebody with a head injury according to NICE criteria. However, the process to developing those criteria is rooted across many different research fields – biology, physics, mathematics, medical case studies, physiology – and so on. Understanding the context brought by research not only helps you become a better clinician, it also equips you with the ability to change with modern technology and keep up to date. During my surgical rotation, there were surgeons who had been trained in open surgery techniques who still struggled to really master and understand newer laparoscopic techniques. Regardless of how well you know what you know now, the context surrounding medical practice can and will change. Knowing how research is conducted, how it is integrated, and how it can change things will help you adapt throughout your career. 
+
+Research in general is also a great way to be passionate about what it is you do, and maintaining that passion for your subject as you go through the less desirable parts of clinical training – difficult rotas, sleep deprivation, cranky consultants, endless cannulas, the inevitable hospital-versus-community-re:work-life-balance debate – maintaining that passion is really important. Have a chat with your consultants and seniors, and see if there’s anything you can get involved in - especially if you’re a medical student or on a particuarly leisurely rotation as a foundation doc (hello ENT!). 
+
+*Please take a moment of silence for GP trainees in particular and their reflective pieces
+
+
+>>>Can I do a PhD and also still do clinical work?
+
+Short answer: 
+Yes!
+
+Long answer:
+Feasibility really depends what you’re doing your PhD in, what specialty you chose, what stage of your career you’re at, and your own internal gauge of how well you think you can do both simultaneously. Doing a PhD in something clinical, such as different levels of CRP in patients over a timecourse study of sepsis, is naturally much easier to manage cognitively than doing a PhD in something medically-related but not really clinical, such as expert witnesses in medical neglience claims. 
+
+If you want to do both properly, the best option is probably taking an academic track during core training (which will be helped if you took one during your foundation years), then doing a PhD at registrar level whilst doing a few locum shifts a month to keep fresh. If you can get your membership exams done first, then great. If you can’t (and even if you can) bear in mind time out of training may affect your clinical competencies - both practically and also those you need to get for your portfolio. Find out the rules about competencies for your specialty first.
+
+Finally, remember that doing both is a balancing act; you will never be both to the fullest that you can be, and you will need to settle for being inbetween. Only you know if you are okay with this. 
+
+Resources:
+KCL IoP has a lot of academic medics:
+
+
+>Help me!
+
+Are you a medic who isn’t dead set on the specialty training pathway? Do you worry about finding your niche? 
+
+Here are some resources that might help you. Alternatively, feel free to email me for hopefully-useful advice about life outside of the medical field.
+
+Mediscope article:
+NHS careers (UK-based):
+Medic Footprints:
